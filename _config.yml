@@ -21,7 +21,7 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Qinghua Lin \n (林清华)"
+  name             : "Qinghua Lin <br> (林清华)"
   avatar           : "images/pic1.jpg"
   bio              : ""
   location         : "Shang Hai, China"
