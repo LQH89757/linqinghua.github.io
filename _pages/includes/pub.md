@@ -3,7 +3,7 @@
 ## 🎙 Master's Stage
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2023</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2023</div><img src='images/DeepCrackAT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DeepCrackAT: An effective crack segmentation framework based on learning multi-scale crack features](https://papers.nips.cc/paper/DeepCrackAT.pdf) \\
