@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qinghua Lin (林清华)"
+title                    : "Qinghua Lin \n (林清华)"
 description              : "Fudan University"
 repository               : "LQH89757/linqinghua.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Qinghua Lin (林清华)"
+  name             : "Qinghua Lin \n (林清华)"
   avatar           : "images/pic1.jpg"
   bio              : ""
   location         : "Shang Hai, China"
