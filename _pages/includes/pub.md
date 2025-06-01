@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-## 🎙 Master's Stage
+## 🎙 Image Segmentation
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2023</div><img src='images/DeepCrackAT.png' alt="sym" width="100%"></div></div>
@@ -13,19 +13,21 @@
 
 - We propose a deep crack convolutional network, named DeepCrackAT, which utilizes an Attention mechanism to fuse multi-scale features from convolution and Tokenized MLP for crack segmentation.
 - For irregularly distributed cracks, we use the hybrid dilated convolutions to increase the receptive field of convolutional operations and capture more crack features. Additionally, the proposed method employs a tokenized multilayer perceptron to project high-dimensional crack features into a low dimension space, enhancing the network’s ability of noise resistance.
-- We introduce the convolutional block attention module to construct an attentional skip-layer fusion block for multi-scale feature fusion. This helps to enhance the network’s perception of the critical crack region and alleviate the problem of information loss in thick crack segmentation..
+- We introduce the convolutional block attention module to construct an attentional skip-layer fusion block for multi-scale feature fusion. This helps to enhance the network’s perception of the critical crack region and alleviate the problem of information loss in thick crack segmentation.
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
+## 🎙 Image Classification
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2024</div><img src='images/FireMatch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) \\
-**Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+[ FireMatch: A semi-supervised video fire detection network based on consistency and distribution alignment](https://arxiv.org/abs/2006.04558) \\
+**Qinghua Lin**, Zuoyong Li, Kun Zeng, Haoyi Fan, Wei Li, Xiaoguang Zhou
 
 [**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
-  - This work is included by many famous speech synthesis open-source projects, such as [PaddlePaddle/Parakeet ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social)](https://github.com/PaddlePaddle/PaddleSpeech), [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet) and [fairseq ![](https://img.shields.io/github/stars/pytorch/fairseq?style=social)](https://github.com/pytorch/fairseq).
+- To fully leverage unlabeled data, we extend consistency regularization with a self-adaptive pseudo-label to the video classification field. Generating enough high-quality pseudo-label data for training helps the model achieve accurate fire video classification.
+- For addressing the problem of imbalanced labeled and unlabeled data leading to mismatched sampling experiences, we propose video cross-set sample augmentation combined with adversarial distribution alignment to generate additional labeled samples and alleviate this bias.
+- We conduct extensive experiments and ablation studies on public datasets and compare our method with state-of-the-art semi supervised methods. The experimental results demonstrate the effectiveness of the proposed method.
 </div>
 </div>
 
