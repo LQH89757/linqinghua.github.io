@@ -31,7 +31,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2024</div><img src='images/FireMatch.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2024</div><img src='images/ReCLR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Leukocyte classification using relative-relationship-guided contrastive learning](https://arxiv.org/abs/2006.04558) \\
