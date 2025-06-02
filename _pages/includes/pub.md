@@ -43,7 +43,7 @@ Zuoyong Li, **Qinghua Lin**, Jiawei Wu, Taotao Lai, Rongteng Wu, David Zhang
 
 
 ## 🧑‍🎨 Generative Model
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/WtNGAN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/WtNGAN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [WtNGAN: Unpaired image translation from white light images to narrow-band images](https://arxiv.org/abs/2006.04558) \\
