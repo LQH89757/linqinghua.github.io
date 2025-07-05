@@ -73,4 +73,5 @@ Zuoyong Li, **Qinghua Lin**, Jiawei Wu, Taotao Lai, Rongteng Wu, David Zhang
 
 
 ## Others
-- `TIM 2025` [KAC-Unet: A Medical Image Segmentation with the Adaptive Group Strategy and Kolmogorov-Arnold Network](https://openreview.net/forum?id=Rp4PA0ez0m), Shiying Lin, Rong Hu, Zuoyong Li, **Qinghua Lin**, et al.
+- `TIM 2025` [KAC-Unet: A Medical Image Segmentation with the Adaptive Group Strategy and Kolmogorov-Arnold Network](https://ieeexplore.ieee.org/abstract/document/10902616), Shiying Lin, Rong Hu, Zuoyong Li, **Qinghua Lin**, et al.
+- `ACMM MM 2025` [Gradient-Aware Revitalization of Non-Effective Samples in Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10902616), Shiying Lin, Rong Hu, Zuoyong Li, **Qinghua Lin**, et al.
