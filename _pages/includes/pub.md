@@ -75,3 +75,4 @@ Zuoyong Li, **Qinghua Lin**, Jiawei Wu, Taotao Lai, Rongteng Wu, David Zhang
 ## Others
 - `TIM 2025` [KAC-Unet: A Medical Image Segmentation with the Adaptive Group Strategy and Kolmogorov-Arnold Network](https://ieeexplore.ieee.org/abstract/document/10902616), Shiying Lin, Rong Hu, Zuoyong Li, **Qinghua Lin**, et al.
 - `ACMM MM 2025` [Gradient-Aware Revitalization of Non-Effective Samples in Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10902616), Shiying Lin, Rong Hu, Zuoyong Li, **Qinghua Lin**, et al.
+-  `计算机工程与应用 2025` [多维层次语义蒸馏引导下的深度学习模型压缩方法](https://ieeexplore.ieee.org/abstract/document/10902616), 陈碧霞, **林清华**, et al.
