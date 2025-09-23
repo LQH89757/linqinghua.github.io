@@ -2,6 +2,21 @@
 # 📝 Publications 
 ## 🎙 Image Classification
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/MICS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multimodal Medical Image Classification via Synergistic Learning Pre-training](https://arxiv.org/abs/2509.17492) \\
+**Qinghua Lin**, Guang-Hai Liu, Zuoyong Li, Yang Li, Yuting Jiang, Xiang Wu
+
+[**Project**](https://github.com/LQH89757/MICS) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
+- To the best of our knowledge, we propose the first multimodal-based semi-supervised medical image classification method by rethinking the implementation of
+multimodal in semi-supervised learning.
+- We propose a synergistic learning pretraining framework that combines consistency, reconstructive, and aligned learning, effectively enhancing the model’s multimodal representation capability in a self-supervised way.
+- We propose a multimodal fusion fine-tuning method based on feature distribution shift, effectively alleviating the overfitting risk caused by the lack of labeled samples and mitigating the model’s perceptual differences between the fusion and initial modalities.
+- We conduct extensive experiments using two public gastroscopy image datasets, where the paired modality images are generated from WtNGAN to verify the feasibility of using multimodal images as augmented samples. The experimental results show that the proposed method achieves promising results in multimodal medical image classification.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/SIAVC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -10,7 +25,7 @@ Zuoyong Li, **Qinghua Lin**, Haoyi Fan, Tiesong Zhao, David Zhang
 
 [**Project**](https://github.com/AlchemyEmperor/SIAVC) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
 - We propose a Video Cross-set Augmentation Module (VCAM) by incorporating high-confidence unlabeled samples into the augmentation queue and generating various pseudo-label samples through interpolation, to mitigate the sampling experience mismatch while expanding the training data.
-- We propose a Super Augmentation Block (SAB) that adds random mask and Gaussian noise to frames based on historical losses to re-augment high-confidence samples. SAB allows for the re-utilization of these strongly augmented samples for better consistency regularization..
+- We propose a Super Augmentation Block (SAB) that adds random mask and Gaussian noise to frames based on historical losses to re-augment high-confidence samples. SAB allows for the re-utilization of these strongly augmented samples for better consistency regularization.
 - We propose a multi-class accident video dataset called Express Center Accidents 9 (ECA9). ECA9 comprises nine typical accidents in hub-level express processing centers, and provides video-level labels and frame-level anomaly labels. To the best of our knowledge, ECA9 is the first surveillance video dataset for industrial accident scenes.
 </div>
 </div>
