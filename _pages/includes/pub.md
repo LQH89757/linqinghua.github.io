@@ -2,7 +2,14 @@
 # 📝 Publications 
 ## 🎙 Image Classification
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/MICS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv 2025</div>
+      <img src='images/MICS1.png' alt="sym1" style="width:100%; display:block; margin-bottom:10px;">
+      <img src='images/MICS.png' alt="sym2" style="width:100%; display:block;">
+</div>
+</div>
 <div class='paper-box-text' markdown="1">
 
 [Multimodal Medical Image Classification via Synergistic Learning Pre-training](https://arxiv.org/abs/2509.17492) \\
