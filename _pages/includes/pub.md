@@ -1,5 +1,34 @@
 
 # 📝 Publications 
+## 🧑‍🎨 Generative Model
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedIA 2026</div><img src='images/PDSR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Ultrasound Localization Microscopy Learned From Power Doppler by Uncertainty
+Frequency Density Estimation and Semantic Consistency Awareness](https://www.sciencedirect.com/science/article/abs/pii/S1361841526001234) \\
+**Qinghua Lin**, Xuan Ren,  Boqian Zhou, Junyi Wang, Xin Liu
+
+[**Project**](https://github.com/LQH89757/PDSR) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
+- We design a Patch Consistency Regularization. By simply randomly swapping patches and constraining the consistency of network input and output, achieving cross-region information interaction in source domain PD images.
+- We propose a Semantic Consistency Aware module that uses a discriminator to guide the sampling and selection of key position patches, aligning the covariance matrices of both, to maintain semantic content consistency between PD images and ULM images.
+- We propose a Density Variation Constraint based on uncertainty frequency domain density estimation. By constraining the mapping of high information density regions in PD images to high information density regions in ULM images, we further enhance the authenticity of the generated images.
+- We construct an ultrasound dataset comprising 541 pairs of matched PD and ULM images. Extensive ablation studies and experiments on the constructed rat brain dataset verify the effectiveness of the proposed PDSR.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/WtNGAN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[WtNGAN: Unpaired image translation from white light images to narrow-band images](https://arxiv.org/abs/2006.04558) \\
+**Qinghua Lin**, Zuoyong Li,  Kun Zeng, Jie Wen, Yuting Zhang, Jian Chen
+
+[**Project**](https://github.com/AlchemyEmperor/WtNGAN) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
+- We utilize contrastive learning and structural consistency constraints to facilitate detailed translation from white light images to narrow-band light images while preserving the structure of the generated images.
+- For the first time, we introduce Vision Mamba to the field of unpaired image translation. The generator based on Vision Mamba enhances the detailed representation of gastroscopic white light images to narrow-band light images by establishing long-range dependencies.
+- We conduct extensive experiments on a self-built gastroscopic dataset and the BraTS2021 dataset, and the experimental results demonstrate that the proposed method outperforms the current state-of-the-art unpaired image translation methods.
+</div>
+</div>
+
 ## 🎙 Image Classification
 
 <div class='paper-box'>
@@ -60,21 +89,6 @@ Zuoyong Li, **Qinghua Lin**, Jiawei Wu, Taotao Lai, Rongteng Wu, David Zhang
 - We introduce the heuristic-guided strategy of contrastive learning, which provides positive and negative samples based on relative distance knowledge. This strategy addresses the bottleneck of contrast views in contrast learning resulting from different classes being sensitive to different data expansions.
 - We propose a Relative-Relationship-Guided Contrastive Learning Representation (ReCLR) framework for the leukocyte classification, which introduces the prior distance knowledge to mine positive pairs with the adversarial relative relationship and negative pairs with entropy constraint.
 - We conduct extensive experiments and compare ReCLR with several state-of-the-art methods on real leukocyte datasets. The results show that our method achieves better classification performance in different evaluation protocols, including linear evaluation, domain transfer, and finetuning, which shows the effectiveness of proposed method.
-</div>
-</div>
-
-
-## 🧑‍🎨 Generative Model
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/WtNGAN.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[WtNGAN: Unpaired image translation from white light images to narrow-band images](https://arxiv.org/abs/2006.04558) \\
-**Qinghua Lin**, Zuoyong Li,  Kun Zeng, Jie Wen, Yuting Zhang, Jian Chen
-
-[**Project**](https://github.com/AlchemyEmperor/WtNGAN) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
-- We utilize contrastive learning and structural consistency constraints to facilitate detailed translation from white light images to narrow-band light images while preserving the structure of the generated images.
-- For the first time, we introduce Vision Mamba to the field of unpaired image translation. The generator based on Vision Mamba enhances the detailed representation of gastroscopic white light images to narrow-band light images by establishing long-range dependencies.
-- We conduct extensive experiments on a self-built gastroscopic dataset and the BraTS2021 dataset, and the experimental results demonstrate that the proposed method outperforms the current state-of-the-art unpaired image translation methods.
 </div>
 </div>
 
