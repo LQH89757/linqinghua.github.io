@@ -6,7 +6,7 @@
 
 [Ultrasound Localization Microscopy Learned From Power Doppler by Uncertainty
 Frequency Density Estimation and Semantic Consistency Awareness](https://www.sciencedirect.com/science/article/abs/pii/S1361841526001234) \\
-**Qinghua Lin**, Xuan Ren,  Boqian Zhou, Junyi Wang, Xin Liu
+**Qinghua Lin†**, Xuan Ren†,  Boqian Zhou, Junyi Wang, Xin Liu
 
 [**Project**](https://github.com/LQH89757/PDSR) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
 - We design a Patch Consistency Regularization. By simply randomly swapping patches and constraining the consistency of network input and output, achieving cross-region information interaction in source domain PD images.
